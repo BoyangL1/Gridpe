@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+# VSCode Server
+.vscode-server/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyTorch checkpoints and logs
+*.pth
+*.pt
+*.ckpt
+# *.log
+logs/
+# checkpoints/
+runs/
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Dataset and model output
+*.tar
+*.zip
+*.tar.gz
+*.npz
+*.npy
+output/
+eval_results/
+eval_results_large/
+pretrain/
+# evaluation/
+# *.png
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Auto-generated files
+*.onnx

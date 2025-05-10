@@ -1,0 +1,2 @@
+Namespace(model='pctrope', exp_name='test_pctrope_1152', dataset='modelnet40', batch_size=32, test_batch_size=8, epochs=100, use_sgd=True, lr=0.0001, momentum=0.9, no_cuda=False, seed=1, eval=True, num_points=1152, dropout=0.5, model_path='checkpoints/train_pctrope/models/model.t7', local_rank=0, cuda=True)
+Test :: test acc: 0.812399, test avg acc: 0.755640
