@@ -45,7 +45,7 @@ nvidia-nvtx-cu11==11.8.86
 packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
-pointnet2_ops @ file:///home/admin/don/PCT/pointnet2_ops_lib
+# pointnet2_ops @ file:///home/admin/don/PCT/pointnet2_ops_lib
 propcache==0.3.1
 protobuf==6.30.2
 pyarrow==19.0.1
