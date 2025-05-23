@@ -3,8 +3,8 @@
 This is the official implementation of **GridPE**, a biologically inspired positional encoding method based on periodic spatial codes observed in grid cells. GridPE approximates shift-invariant attention kernels using structured Fourier embeddings, and is applicable to both 2D vision transformers and 3D point cloud transformers.
 
 ---
-## Gridattn
-Our core implementation of GridPE Attention is provided in [`gridAttn.py`](/PCT/gridAttn.py), making it easy to integrate GridPE into other repositories as well.
+## GridPE-Attention
+The core implementation of GridPE Attention is available in [`gridAttn.py`](/PCT/gridAttn.py), making it easy to integrate into other repositories.
 
 ## 📁 Project Structure
 
